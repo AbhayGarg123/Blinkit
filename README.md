@@ -23,10 +23,11 @@
         </li>
     </ol>
    
-  
-  
-📈 Business Insights and Recommendations
-Based on the analysis performed in general.sql, the following key business observations were made:
-Category Dominance
-Price Sensitivity
-Revenue Cycle
+  <h2> Business Insights and Recommendations </h2> 
+<p>Based on the analysis performed in general.sql, the following key business observations were made: </p>
+<ol>
+ <li>Category Dominance</li>
+ <li>Price Sensitivity</li>
+ <li>Revenue Cycle</li>
+</ol>
+
