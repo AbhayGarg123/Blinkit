@@ -1,7 +1,7 @@
 🛒 Blinkit Quick-Commerce Data Analysis (SQL Project)
 
-📌 Project Summary
-This project utilizes SQL to conduct a comprehensive data analysis of a quick-commerce (e-commerce grocery delivery) platform, simulated using Blinkit's data schema. The primary goal is to extract key business insights related to sales performance, product popularity, and operational efficiency, thereby demonstrating strong analytical and database querying skills.
+📌 Project Summary <br>
+This project utilizes SQL to conduct a comprehensive data analysis of a quick-commerce (e-commerce grocery delivery) platform, simulated using Blinkit's data schema. The primary goal is to extract key business insights related to sales performance, product popularity, and operational efficiency, thereby demonstrating strong analytical and database querying skills. <br>
 
 🔑 Key Analytical Queries & Insights
     1. Revenue and Sales Performance
